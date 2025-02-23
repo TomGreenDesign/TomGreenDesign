@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Tom. I design, build and break stuff!
 - 👀 I’m interested in mechanical, mechatronic and electronics design | embedded software / firmware | sustainable energy production
-- 🌱 I’m currently studying Mechanical Engineering @ Loughborough University | German 
-- 💞️ I’m looking to collaborate on your product development ideas!
 - 📫 design@tomgreen.uk
 
 <!---
